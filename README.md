@@ -59,9 +59,25 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
+![239811557-e6f77e6c-9924-4520-8ca9-51cfbde868fc](https://github.com/kamalesh2509/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/120444689/9375fd10-91cf-4a5d-9644-1b37c55fc423)
 
-### Name: 
-### Register Number:
+
+
+![239709552-aa0e2793-63a2-435b-ae34-e607f899281e](https://github.com/kamalesh2509/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/120444689/eedde595-34ff-4b5e-bb72-20af880b2de0)
+
+
+![239709557-d18bf07d-ff35-490f-af2c-4a634aff1bb4](https://github.com/kamalesh2509/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/120444689/0f226844-9563-41dc-bd1d-057cc496530f)
+
+![239709579-a6593c8f-3bdc-4dea-95cf-3e8426917900](https://github.com/kamalesh2509/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/120444689/b29d072a-b677-4f95-88ef-570a399ebed2)
+![239750015-56346244-26d9-4ee5-8d73-f385d90cd1c6](https://github.com/kamalesh2509/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/120444689/0e7c9c1b-6199-40e8-821a-64ba513d7bd9)
+
+
+
+![239709608-475427c1-1211-4613-bab3-dac36f1b52e6](https://github.com/kamalesh2509/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/120444689/8a6d7f4d-1e98-457b-a04d-83ff2648fa0f)
+
+### Name: E kamalesh
+
+### Register Number: 212222100019
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
